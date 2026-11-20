@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env*.local
+.env
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+qa/screenshots
+
+# Note interne (non pubbliche)
+CLIENTE.md
+ricerca/
+out/

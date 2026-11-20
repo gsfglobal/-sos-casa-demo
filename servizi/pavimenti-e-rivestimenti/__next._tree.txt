@@ -1,0 +1,7 @@
+:HL["/-sos-casa-demo/_next/static/chunks/03gteen9ibzr-.css","style"]
+:HL["/-sos-casa-demo/_next/static/media/068feab4deafcd0f-s.p.0_kz_z3o_slvt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/-sos-casa-demo/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"pavimenti-e-rivestimenti","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"servizi","h":131136,"c":"$Q2"}]]
+0:{"b":"rLLptC9LAzyfwQTmYbb2v","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
